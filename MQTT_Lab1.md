@@ -83,7 +83,4 @@ https://mqtt-explorer.com/
 
  ![image](https://github.com/user-attachments/assets/dc334e60-efac-491a-a1a1-283865ab05d7)
 
- ![image](https://github.com/user-attachments/assets/5ca8b6ce-5232-409b-809f-bbb03689a2a5)
-
-
 
