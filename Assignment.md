@@ -8,8 +8,14 @@
 ![image](https://github.com/user-attachments/assets/113c7d7a-2006-4e54-8167-b43f287a018f)
 
 
+
+
 เมื่อกดสวิตช์ จะมีการส่งข้อมูล 0 หรือ 1 ไปยัง mqtt broker
 สามารถนำมาพล็อตกราฟดังดังรูป
+
+ผลลัพธ์
+![image](https://github.com/user-attachments/assets/25b1886c-0b52-4d29-87b4-2cc970033292)
+
 
 
 ## งานที่ 2 
