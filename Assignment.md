@@ -11,11 +11,17 @@
 เมื่อกดสวิตช์ จะมีการส่งข้อมูล 0 หรือ 1 ไปยัง mqtt broker
 สามารถนำมาพล็อตกราฟดังดังรูป
 
+![image](https://github.com/user-attachments/assets/6f7e3ba7-4f56-446b-9132-d8463282af21)
+
 
 ## งานที่ 2 
 
 เมื่อส่ง topic จาก mqtt explorer มายัง ESP32
 จะสามารถควบคุมการติดดับของ LED ได้
+
+![image](https://github.com/user-attachments/assets/398dde87-dee5-4364-96bc-b064fc4da48c)
+
+![image](https://github.com/user-attachments/assets/1ea0fd09-880a-4ff9-9b5f-4bb2f54d2e38)
 
 
 ## งานที่ 3
