@@ -10,6 +10,7 @@
 
 เมื่อกดสวิตช์ จะมีการส่งข้อมูล 0 หรือ 1 ไปยัง mqtt broker
 สามารถนำมาพล็อตกราฟดังดังรูป
+![image](https://github.com/user-attachments/assets/dd1ab249-65f0-44fc-a1b7-bdcc23c90dd1)
 
 
 ## งานที่ 2 
