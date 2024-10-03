@@ -12,10 +12,17 @@
 สามารถนำมาพล็อตกราฟดังดังรูป
 
 
+![image](https://github.com/user-attachments/assets/9b6c3303-d34d-40b3-bfbc-b6d0787d75b7)
+
+
 ## งานที่ 2 
 
 เมื่อส่ง topic จาก mqtt explorer มายัง ESP32
 จะสามารถควบคุมการติดดับของ LED ได้
+
+
+![สกรีนช็อต 2024-10-03 154615](https://github.com/user-attachments/assets/b97c6f80-8d43-44a4-bc85-33e5fb3b9fab)
+
 
 
 ## งานที่ 3
