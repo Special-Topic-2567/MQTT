@@ -73,6 +73,9 @@ https://mqtt-explorer.com/
 
 
 
+## ผลการทำงาน ผลการทดลอง
+
+![image](https://github.com/user-attachments/assets/bb5e1f89-6f08-4ee2-8648-0972e330f1b9)
 
 
  
