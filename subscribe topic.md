@@ -7,6 +7,10 @@ switch ((esp_mqtt_event_id_t)event_id) {
     case MQTT_EVENT_CONNECTED:
 ....    
 ```
+ซึ่งอยู่ในฟังก์ชันชื่อ 
+```
+static void mqtt_event_handler(void *handler_args, esp_event_base_t base, int32_t event_id, void *event_data)
+```
 
 2. copy บรรทัดต่อไปนี้ลงมาวางไว้ด้านล่าง
 ```c
