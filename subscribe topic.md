@@ -2,8 +2,11 @@
 
 1. ไปดู code ใน  
 
-`switch ((esp_mqtt_event_id_t)event_id) {
-    case MQTT_EVENT_CONNECTED:`
+`
+switch ((esp_mqtt_event_id_t)event_id) {
+    case MQTT_EVENT_CONNECTED:
+....    
+    `
 
 2. copy บรรทัดต่อไปนี้ลงมาวางไว้ด้านล่าง
 `
