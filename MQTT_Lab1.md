@@ -77,5 +77,13 @@ https://mqtt-explorer.com/
 
 ![image](https://github.com/user-attachments/assets/bb5e1f89-6f08-4ee2-8648-0972e330f1b9)
 
+![image](https://github.com/user-attachments/assets/5643740a-2213-4c05-816b-cb48ea607025)
 
- 
+![image](https://github.com/user-attachments/assets/f4d00f6a-e948-47db-80a6-83ea905ed39e)
+
+ ![image](https://github.com/user-attachments/assets/dc334e60-efac-491a-a1a1-283865ab05d7)
+
+ ![image](https://github.com/user-attachments/assets/5ca8b6ce-5232-409b-809f-bbb03689a2a5)
+
+
+
