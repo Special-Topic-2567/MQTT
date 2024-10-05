@@ -1,10 +1,29 @@
 # งานที่ 1 
 
-![image](https://github.com/user-attachments/assets/2515a56c-618c-40fc-a2ab-939536a94004)
+![image](https://github.com/user-attachments/assets/b4dd001b-5c97-4da7-82d5-396e403ea1e3)
 
-# งาน ที่ 2 
+เมื่อกดสวิตช์ จะมีการส่งข้อมูล 0 หรือ 1 ไปยัง mqtt broker
+สามารถนำมาพล็อตกราฟดังดังรูป
 
-![image](https://github.com/user-attachments/assets/66867eaa-efb4-43b2-8e0d-aee0b286d497)
+# งานที่ 2 
 
-![image](https://github.com/user-attachments/assets/3d31bbcb-34f8-45c8-b612-05ac5e723327)
+![image](https://github.com/user-attachments/assets/c1e53bbd-2135-4c86-9e64-2142dde0bb60) 
 
+![image](https://github.com/user-attachments/assets/5a52ffca-155b-4211-823b-470b10436bfa)
+
+
+เมื่อส่ง topic จาก mqtt explorer มายัง ESP32
+จะสามารถควบคุมการติดดับของ LED ได้
+
+# งานที่ 3
+
+![image](https://github.com/user-attachments/assets/56d20106-8479-4360-9cb0-6d86e89ca53e)
+
+
+ส่งตัวเลข 00 - 99 จาก mqtt explorer มายังบอร์ด
+แล้วแสดงผลบนตัวเลข 7 ส่วน จำนวนสองหลักบนบอร์ด
+โดยใช่ component ที่ดึงมาด้วยไฟล์ idf_component.yml
+
+# Code 
+
+https://github.com/SitthaKlaphanich/LABMQQT
