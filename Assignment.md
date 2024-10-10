@@ -35,6 +35,10 @@
 แล้วแสดงผลบนตัวเลข 7 ส่วน จำนวนสองหลักบนบอร์ด
 โดยใช่ component ที่ดึงมาด้วยไฟล์ idf_component.yml
 
+ผลลัพธ์
+![image](https://github.com/user-attachments/assets/4031242a-4fa0-43c8-b348-d185d604bda5)
 
-## Repository Code for MQTT-65030099 งานที่ 1- 3 **
+
+## Repository Code for MQTT-65030099 งานที่ 1- 2 **
 https://github.com/CreamCheese99/MQTT-650300099
+https://github.com/CreamCheese99/MQTT_TCP_7Segment11
