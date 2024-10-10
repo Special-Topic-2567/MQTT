@@ -25,6 +25,8 @@
 
 ผลลัพธ์
 ![image](https://github.com/user-attachments/assets/513ae364-b4f6-4a68-9e18-a512eab597c2)
+![image](https://github.com/user-attachments/assets/5ab7c487-00c9-4888-80f5-31e2f3620f55)
+
 
 
 
