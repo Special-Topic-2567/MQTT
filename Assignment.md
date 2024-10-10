@@ -17,8 +17,7 @@
 
 เมื่อส่ง topic จาก mqtt explorer มายัง ESP32
 จะสามารถควบคุมการติดดับของ LED ได้
-![image](https://github.com/user-attachments/assets/64db10ad-4cde-4c98-a716-05ce34473956)
-
+![image](https://github.com/user-attachments/assets/69f9a205-dc5a-4c82-9111-ad8c4b5458c8)
 
 ## งานที่ 3
 ส่งตัวเลข 00 - 99 จาก mqtt explorer มายังบอร์ด
