@@ -34,3 +34,7 @@
 ส่งตัวเลข 00 - 99 จาก mqtt explorer มายังบอร์ด
 แล้วแสดงผลบนตัวเลข 7 ส่วน จำนวนสองหลักบนบอร์ด
 โดยใช่ component ที่ดึงมาด้วยไฟล์ idf_component.yml
+
+
+## Repository Code for MQTT-65030099 งานที่ 1- 3 **
+https://github.com/CreamCheese99/MQTT-650300099
