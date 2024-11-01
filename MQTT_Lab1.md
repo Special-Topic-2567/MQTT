@@ -80,7 +80,10 @@ https://mqtt-explorer.com/
 ![image](https://github.com/user-attachments/assets/9ca9a7cb-80d4-4ed2-aa65-ce2a8914900f)
 
 
-![image](https://github.com/user-attachments/assets/bb5e1f89-6f08-4ee2-8648-0972e330f1b9)
+![image](https://github.com/user-attachments/assets/bb5e1f89-6f08-4ee2-8648-0972e330f1b9
+
+![image](https://github.com/user-attachments/assets/69679294-fba7-4062-a6b3-02b92a8cede9)
+
 
 ![image](https://github.com/user-attachments/assets/5643740a-2213-4c05-816b-cb48ea607025)
 
